@@ -1,5 +1,4 @@
-## Hi there 👋
-About Myself
+## About Myself 👋
 Hi I am John Doe
 I am a Highly motivated and detail-oriented Data Analyst with a strong academic foundation in Statistics 
 and hands-on experience in data manipulation, analysis, and visualization. Proficient in leveraging 
