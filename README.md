@@ -6,3 +6,4 @@ tools like Python, SQL, and Tableau to extract actionable insights from complex 
 delivering data-driven recommendations to enhance decision-making processes. Committed to continuous 
 learning and innovation, with a proven ability to communicate findings effectively to technical and 
 non-technical stakeholders.
+Working at WsCube Tech
