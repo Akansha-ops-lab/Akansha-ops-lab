@@ -8,3 +8,4 @@ learning and innovation, with a proven ability to communicate findings effective
 non-technical stakeholders.
 Working at WsCube Tech
 Exp- 2 Years
+Sr. HR Manager
