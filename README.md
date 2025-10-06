@@ -9,5 +9,4 @@ non-technical stakeholders.
 Working at WsCube Tech
 Exp- 2 Years
 
-
 Sr. HR Manager
