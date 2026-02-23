@@ -7,4 +7,4 @@ delivering data-driven recommendations to enhance decision-making processes. Com
 learning and innovation, with a proven ability to communicate findings effectively to technical and 
 non-technical stakeholders.
 Working at WsCube Tech
-Exp- 2 Years
+
