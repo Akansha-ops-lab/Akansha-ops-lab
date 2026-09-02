@@ -1,4 +1,4 @@
-## About Myself 👋
+## About Myself 
 Hi I am John Doe
 Experience- 2 Years
 I am a Highly motivated and detail-oriented Data Analyst with a strong academic foundation in Statistics 
