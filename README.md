@@ -6,6 +6,6 @@ and hands-on experience in data manipulation, analysis, and visualization. Profi
 tools like Python, SQL, and Tableau to extract actionable insights from complex datasets. Adept at 
 delivering data-driven recommendations to enhance decision-making processes. Committed to continuous 
 learning and innovation, with a proven ability to communicate findings effectively to technical and 
-non-technical stakeholders.
+non-technical stakeholder.
 
 
